@@ -1,14 +1,21 @@
-#Under Construction Parallax Template
+#Under Construction Page Using Parallax Effect
 
-- Designed by Sivanantham G, Prasanth V, Gowtham S
-- Used in PSG Login 2015 (psglogin.in)
-- We use parallax.js
+- Designed by Software Development Team, CAA, Login 2015
+- We use third party library called parallax.js
 
 #DEMO LINK
 
 - http://archive.psglogin.in/2015/uc
 
-#About Login 2015
+#SD Team
+
+- Sivanantham G - Coordinator
+- Ramesh R - Coordinator
+- Prasanth V
+- Gowtham S
+- Sathasivam R
+
+#About LOGIN 2015
 
 LOGIN, a celebrated International level technical symposium has proved its excellence every year with innovation and proactive tapping of fresh young minds since 1990. Login is brought to you by Computer Applications Association and Computational Sciences Association that aspires to cope with the current socio - technological environment.
 
