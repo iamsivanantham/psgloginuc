@@ -2,6 +2,7 @@
 
 - Designed by Software Development Team, CAA, Login 2015
 - We use third party library called parallax.js
+- Features: Responsive Design, Cross Browser Support, HTML5, CSS3
 
 #DEMO LINK
 
