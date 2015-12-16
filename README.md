@@ -6,7 +6,7 @@
 
 #DEMO LINK
 
-- http://archive.psglogin.in/2015
+- http://archive.psglogin.in/2015/uc
 
 #About Login 2015
 
