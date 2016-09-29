@@ -6,7 +6,7 @@
 
 #DEMO LINK
 
-- http://archive.psglogin.in/2015/uc
+- http://design.sigastudio.com/psgloginuc/
 
 #SD Team
 
