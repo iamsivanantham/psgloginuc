@@ -6,7 +6,7 @@
 
 #DEMO LINK
 
-- http://sigastudio.com/design/psgloginuc/
+- http://sigastudio.com/psgloginuc/
 
 #SD Team
 
